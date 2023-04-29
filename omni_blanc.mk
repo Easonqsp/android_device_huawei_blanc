@@ -33,10 +33,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     device/huawei/blanc/dummykernel:kernel
 
-PRODUCT_NAME := omni_blanc
+PRODUCT_NAME := miku_blanc
 PRODUCT_DEVICE := blanc
 PRODUCT_BRAND := Huawei
-PRODUCT_MODEL := Honor View 10
+PRODUCT_MODEL := Huawei Mate 10 Pro
 PRODUCT_MANUFACTURER := Huawei
 
 # Kernel inline build
